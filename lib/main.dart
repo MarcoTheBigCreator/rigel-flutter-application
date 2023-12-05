@@ -5,10 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_web_plugins/url_strategy.dart';
 import '/backend/supabase/supabase.dart';
-import 'flutter_flow/flutter_flow_theme.dart';
-import 'flutter_flow/flutter_flow_util.dart';
-import 'flutter_flow/internationalization.dart';
-import 'flutter_flow/nav/nav.dart';
+import 'ui/flutter_flow_theme.dart';
+import 'ui/flutter_flow_util.dart';
+import 'ui/internationalization.dart';
+import 'ui/nav/nav.dart';
 import 'index.dart';
 
 void main() async {
